@@ -17,18 +17,12 @@ payload:
   - DOMAIN-SUFFIX,enza.fun
   # > プリコネ
   - DOMAIN,api-priconne-redive.cygames.jp
-  - IP-CIDR,104.115.222.198/32
   - DOMAIN,prd-priconne-redive.akamaized.net
-  - DOMAIN-KEYWORD,priconne-redive
-  - DOMAIN,api-common01.cygames.jp
+  - DOMAIN-SUFFIX,cygames.jp
   # > ウマ娘
   - DOMAIN,api-umamusume.cygames.jp
   - DOMAIN,prd-storage-game-umamusume.akamaized.net
   - DOMAIN,prd-storage-app-umamusume.akamaized.net    
-  # > オルサガ 
-  - DOMAIN-SUFFIX,horsaga.jp
-  - DOMAIN-SUFFIX,noahapps.jp
-  - DOMAIN,hsm-dl.sega-net.jp
   # > PSO2 
   - DOMAIN,launcher.pso2.jp
   - DOMAIN,patch01.pso2gs.net
