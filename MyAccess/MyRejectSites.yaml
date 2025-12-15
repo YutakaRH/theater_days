@@ -28,7 +28,16 @@ payload:
   - DOMAIN-KEYWORD,redtube
   - DOMAIN-KEYWORD,xhaccess
   - DOMAIN-KEYWORD,xhstory
-  
+  - DOMAIN-KEYWORD,dailyxh
+  - DOMAIN-KEYWORD,xhsurf
+  - DOMAIN-KEYWORD,merchantxh
+  - DOMAIN-KEYWORD,xhcash
+  - DOMAIN-KEYWORD,xhcash
+  - DOMAIN-KEYWORD,xhcash
+  - DOMAIN-KEYWORD,xhcash
+  - DOMAIN-KEYWORD,xhcash
+
+    
   - DOMAIN-KEYWORD,.pl
   - DOMAIN-KEYWORD,xho
   - DOMAIN-KEYWORD,apor
