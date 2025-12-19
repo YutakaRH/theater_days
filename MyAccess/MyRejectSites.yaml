@@ -7,6 +7,8 @@ payload:
   - DOMAIN-KEYWORD,adult
   - DOMAIN-KEYWORD,.pl 
   - DOMAIN-KEYWORD,xxx
+
+  - DOMAIN-KEYWORD,acgbox.link
   - DOMAIN-KEYWORD,acgxmh 
   - DOMAIN-KEYWORD,avbebe
   - DOMAIN-KEYWORD,teaeee
