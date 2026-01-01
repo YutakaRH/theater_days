@@ -19,6 +19,8 @@ payload:
   - DOMAIN-SUFFIX,cygames.jp 
   - DOMAIN-SUFFIX,cygames.com
   - DOMAIN-SUFFIX,cygames.co.jp
+  - DOMAIN,priconne-redive.jp
+  - DOMAIN,cygamespf.g.kuroco.app
   # > プリコネ
   - DOMAIN,api-priconne-redive.cygames.jp
   - DOMAIN,prd-priconne-redive.akamaized.net
